@@ -37,7 +37,7 @@ RDEPEND="
 	net-misc/curl
 	sys-apps/util-linux
 	sys-libs/zlib[minizip]
-	virtual/jpeg:62
+	virtual/jpeg-compat:62
 	x11-libs/libX11
 	x11-libs/libXcursor
 	x11-libs/libXdamage

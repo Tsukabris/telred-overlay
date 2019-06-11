@@ -21,7 +21,7 @@ DEPEND=""
 
 RDEPEND="
 	>=dev-libs/openssl-1.0.2:0
-	virtual/jpeg:62
+	virtual/jpeg-compat:62
 	media-libs/libpng:1.2
 	media-libs/libv4l
 	media-sound/pulseaudio[alsa,X]
